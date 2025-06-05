@@ -49,7 +49,8 @@
 <!-- Contact Me -->
 <p align="center">
   <samp>  
-    I haven't made an installation script yet, but I plan to do it at some point! For now, this is all I have. Thank you very much for checking out the repo!
+    You can install these dotfiles automatically using the `script.sh` installer.
+    Clone the repository anywhere and run `./script.sh` to install or repair the setup on a clean Arch Linux installation with Hyprland.
     <br>
     WM:
     <br>
